@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06489492-4a93-4df5-8ba3-de0a3d800750" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/ejercicios/Ejercicio#12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicios/Ejercicio#13.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675978189090</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Initial commit">
+      <created>1675978536153</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1675978536153</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
