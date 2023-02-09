@@ -3,5 +3,5 @@ if __name__ == "__main__":
         pi=3.14
         total=pi*a**2
         return(total)
-    radio=int(input("Digite radio\n"))
+    radio=float(input("Digite radio\n"))
     print("El area es:", circulo(radio))
